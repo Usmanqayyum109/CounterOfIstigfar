@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CounterOfIstigfar/static/css/main.3d123bd5.css",
+    "main.css": "/CounterOfIstigfar/static/css/main.ec7d0ab6.css",
     "main.js": "/CounterOfIstigfar/static/js/main.93a9629a.js",
     "static/js/787.6c827cce.chunk.js": "/CounterOfIstigfar/static/js/787.6c827cce.chunk.js",
     "index.html": "/CounterOfIstigfar/index.html",
-    "main.3d123bd5.css.map": "/CounterOfIstigfar/static/css/main.3d123bd5.css.map",
+    "main.ec7d0ab6.css.map": "/CounterOfIstigfar/static/css/main.ec7d0ab6.css.map",
     "main.93a9629a.js.map": "/CounterOfIstigfar/static/js/main.93a9629a.js.map",
     "787.6c827cce.chunk.js.map": "/CounterOfIstigfar/static/js/787.6c827cce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d123bd5.css",
+    "static/css/main.ec7d0ab6.css",
     "static/js/main.93a9629a.js"
   ]
 }
